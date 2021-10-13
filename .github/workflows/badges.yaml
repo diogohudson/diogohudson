@@ -11,4 +11,4 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@master
-          CREDLY_USER: diogo-hudson-dias
+          CREDLY_USER:'diogo-hudson-dias'

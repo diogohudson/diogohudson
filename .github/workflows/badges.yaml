@@ -1,7 +1,8 @@
 name: Update badges
 
 on:
-  create:
+  push:
+    branches: [ main ]
     # Runs at 2am UTC
     #- cron: "0 2 * * *"
 jobs:

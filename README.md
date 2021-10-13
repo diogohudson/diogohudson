@@ -1,5 +1,6 @@
 # Simple badge IT life's Resume
-
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 ### What i do and really 🫀 to do:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)

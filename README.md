@@ -1,12 +1,11 @@
 # IT life's Resume
 
-[![image](https://github.com/diogohudson/diogohudson/assets/49169467/050f2479-5624-411f-8ec8-3f55c062c4cf)
-](https://www.credly.com/badges/ab5cd962-3a28-4ffe-b3a5-303518677f27)![image](https://user-images.githubusercontent.com/49169467/137215252-84563373-f8a2-4c91-91e0-b62209443c90.png)
-![MS](https://user-images.githubusercontent.com/49169467/137215287-3bb0480f-30a9-47e3-8b8b-f3693a6a3815.png)
+[![image](https://github.com/diogohudson/diogohudson/assets/49169467/a308ba42-da8e-40fa-8ff1-a86f92f5b63e)
+](https://www.credly.com/badges/df665c08-dbfc-43be-8080-625c7b71e1af)[![image](https://github.com/diogohudson/diogohudson/assets/49169467/c91c2c2b-bf27-4dab-ab90-16da05198ee6)](https://www.credly.com/badges/ab5cd962-3a28-4ffe-b3a5-303518677f27)
+[![image](https://github.com/diogohudson/diogohudson/assets/49169467/6ef39f18-75c5-4b17-8075-f8c5a8cac1c8)
+](https://www.credly.com/badges/7a80565e-12ad-485f-9715-159643a1fad5)
 
-
-
-### What i do and really 🫀 to do:
+## What I do and really 🫀 to do:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -19,7 +18,7 @@
 
 
 
-### What i do every single day of the year:
+## What I do every single day of the year:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -38,7 +37,7 @@
 
 
 
-### What i did in the last 20 years:
+### What I did in the last 23 years:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)

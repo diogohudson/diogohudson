@@ -1,5 +1,6 @@
 # IT life's Resume
 
+![image](https://github.com/diogohudson/diogohudson/assets/49169467/050f2479-5624-411f-8ec8-3f55c062c4cf)
 ![image](https://user-images.githubusercontent.com/49169467/137215252-84563373-f8a2-4c91-91e0-b62209443c90.png)
 ![MS](https://user-images.githubusercontent.com/49169467/137215287-3bb0480f-30a9-47e3-8b8b-f3693a6a3815.png)
 

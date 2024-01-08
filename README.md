@@ -4,6 +4,8 @@
 ](https://www.credly.com/badges/df665c08-dbfc-43be-8080-625c7b71e1af)[![image](https://github.com/diogohudson/diogohudson/assets/49169467/c91c2c2b-bf27-4dab-ab90-16da05198ee6)](https://www.credly.com/badges/ab5cd962-3a28-4ffe-b3a5-303518677f27)
 [![image](https://github.com/diogohudson/diogohudson/assets/49169467/6ef39f18-75c5-4b17-8075-f8c5a8cac1c8)
 ](https://www.credly.com/badges/7a80565e-12ad-485f-9715-159643a1fad5)
+[![aad](https://github.com/diogohudson/diogohudson/assets/49169467/54b2b8d2-7ae3-4ed7-9246-773d6ea31372)
+](https://www.credly.com/earner/earned/badge/c2cd9a47-e187-4edf-95a9-ba551497176e)
 
 ## What I do and really 🫀 to do:
 
